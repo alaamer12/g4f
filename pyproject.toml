@@ -87,7 +87,7 @@ version = "scripts.release.update_version:cli"
 
 [tool.poetry.dependencies]
 python = ">=3.11"
-g4f = "^0.5.0.2"
+g4f = "0.5.2.2"
 rich = "^14.0.0"
 
 [tool.poetry.group.dev.dependencies]
